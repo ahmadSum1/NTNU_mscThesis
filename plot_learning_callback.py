@@ -1,3 +1,5 @@
+## from https://gist.github.com/danicrg/ab3bc7c330ce152bcf643231de4820e9#file-plot_learning_callback-py
+
 import numpy as np 
 from tensorflow import keras
 from matplotlib import pyplot as plt
