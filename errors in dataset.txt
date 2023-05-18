@@ -1,12 +1,18 @@
+names:
+0 - boat
+1 - buoy
+2 - jetski
+3 - life_saving_appliances
+4 - swimmer
 
 Mistake in source:
     - train set: 
-        -label 5.txt
+        -label 5.txt - fixed in roboflow
     - Validation set: 
         -label:
 			-CLASS 1:
 				-501 0
-				-780 0
+				-780 0 -del RBFlow
 				-887 3
 				-2231 0 1
 				-2378 2
