@@ -1,1 +1,4 @@
-models/yolov5s6.pt
+datasets/
+.vscode/
+.ipynb_checkpoints
+models/
