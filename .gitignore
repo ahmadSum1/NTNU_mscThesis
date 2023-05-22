@@ -2,4 +2,3 @@ datasets/
 .vscode/
 .ipynb_checkpoints
 models/
-yolov5/
