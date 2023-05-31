@@ -5,3 +5,4 @@ datasets/
 models/
 model_backup/
 yolov5/
+runs/
