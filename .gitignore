@@ -3,3 +3,5 @@ datasets/
 .vscode/
 .ipynb_checkpoints
 models/
+model_backup/
+yolov5/
