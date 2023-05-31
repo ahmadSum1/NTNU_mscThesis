@@ -1,3 +1,6 @@
 
 datasets/
 .vscode/
+model_backup/
+runs/
+yolov5/
