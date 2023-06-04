@@ -2,3 +2,6 @@
 datasets/
 .vscode/
 DJI_0915_0009_60m_3.mp4_20230506_090622.659.jpg
+model_backup/
+runs/
+yolov5/
